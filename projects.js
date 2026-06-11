@@ -27,7 +27,7 @@ const PROJECTS = [
       "flow-induced fatigue and hydroacoustic noise.",
     tags: ["CFD", "ANSYS Fluent", "URANS / LES", "Technical reporting"],
     image: "",
-    link: "",
+    link: "assets/P002744_Final_Report.pdf",
   },
   {
     title: "CLA 45 Strut Brace Design & Analysis",
