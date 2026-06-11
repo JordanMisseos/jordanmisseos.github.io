@@ -26,7 +26,7 @@ const PROJECTS = [
       "industry-standard technical report with design recommendations to reduce " +
       "flow-induced fatigue and hydroacoustic noise.",
     tags: ["CFD", "ANSYS Fluent", "URANS / LES", "Technical reporting"],
-    image: "",
+    image: "assets/flow.jpg",
     link: "assets/P002744_Final_Report.pdf",
   },
   {
