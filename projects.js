@@ -39,7 +39,7 @@ const PROJECTS = [
       "static structural FEA in ANSYS Mechanical to assess the rectangular tube " +
       "section geometry.",
     tags: ["FEA", "ANSYS Mechanical", "Fusion 360", "Hand calcs"],
-    image: "assets/Strut Brace.jpg",
+    image: "assets/strut-brace.jpg",
     link: "",
   },
   {
