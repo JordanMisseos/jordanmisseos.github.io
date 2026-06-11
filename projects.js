@@ -62,7 +62,7 @@ const PROJECTS = [
       "stiffeners, frames and panels — in CATIA V5 and FORAN to manufacturing and " +
       "classification standards, within a Windchill PLM environment.",
     tags: ["FORAN", "CATIA V5", "GD&T", "Naval"],
-    image: "bmis.jpg",
+    image: "bmais.jpg",
     link: "",
   },
 ];
